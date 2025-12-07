@@ -1,0 +1,49 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data 
+data/**/*.zip
+data/**/*.tar
+data/**/*.db
+data/**/*.sqlite
+data/**/*.feather
+data/**/*.parquet
+
+# Models
+models/**/*.h5
+models/**/*.pt
+models/**/*.pth
+models/**/*.onnx
+models/checkpoints/*
+models/t5/checkpoint-196/
+
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Node (if frontend exists)
+node_modules/
+dist/
+build/
+
+# Environment files
+.env
+

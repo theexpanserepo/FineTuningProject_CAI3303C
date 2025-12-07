@@ -1,0 +1,101 @@
+course,section_id,course_name,campus,day,days_code,start_time,end_time,location,credits,level
+COP1000,COP1000-01,Intro to Programming,Homestead,Fri,F,13:30,15:00,Building 3-182,3,lower
+COP3530,COP3530-01,Data Structures,Wolfson,Sat,Sat,09:00,11:00,Building 5-290,3,upper
+STA2023,STA2023-01,Statistical Methods,Kendall,Thu,TR,08:30,10:00,Building 1-349,4,lower
+COP3530,COP3530-02,Data Structures,Kendall,Sat,Sat,13:30,15:00,Building 5-194,3,upper
+COP2210,COP2210-01,Programming I (Java),Kendall,Tue,TR,10:00,11:15,Building 7-385,4,lower
+MAC1105,MAC1105-01,College Algebra,North,Fri,F,15:00,17:00,Building 2-172,4,lower
+ENC1102,ENC1102-01,English Composition II,Homestead,Fri,F,12:00,13:15,Building 5-235,3,lower
+ENC1102,ENC1102-02,English Composition II,West,Tue,TR,09:30,10:30,Building 5-195,3,lower
+COP2210,COP2210-02,Programming I (Java),Wolfson,Fri,MWF,10:00,12:00,Building 2-308,4,lower
+CAI2100C,CAI2100C-01,Machine Learning Foundations,North,Tue,TR,17:30,18:15,Building 6-158,3,lower
+ENC1102,ENC1102-03,English Composition II,Kendall,Sat,Sat,08:30,09:15,Building 7-304,3,lower
+MAC1105,MAC1105-02,College Algebra,North,Thu,TR,17:30,18:15,Building 1-313,3,lower
+COP3530,COP3530-03,Data Structures,Homestead,Thu,TR,10:30,12:00,Building 7-352,3,upper
+COP2210,COP2210-03,Programming I (Java),Wolfson,Sat,Sat,12:30,14:00,Building 7-119,3,lower
+CAI3822C,CAI3822C-01,Computational Methods AI 2,Homestead,Wed,MW,17:30,19:00,Building 1-147,3,upper
+ENC1101,ENC1101-01,English Composition I,Kendall,Thu,TR,12:00,13:30,Building 1-197,4,lower
+MAC1105,MAC1105-03,College Algebra,Kendall,Sat,Sat,08:00,09:15,Building 5-380,3,lower
+CAI2100C,CAI2100C-02,Machine Learning Foundations,West,Mon,MWF,13:30,15:00,Building 3-236,3,lower
+COP2210,COP2210-04,Programming I (Java),North,Mon,MWF,13:00,15:00,Building 3-137,4,lower
+CAI2100C,CAI2100C-03,Machine Learning Foundations,Wolfson,Mon,MW,10:00,12:00,Building 3-381,3,lower
+COP1000,COP1000-02,Intro to Programming,Kendall,Fri,F,13:30,14:15,Building 6-280,4,lower
+ENC1102,ENC1102-04,English Composition II,Homestead,Fri,F,12:30,13:15,Building 2-335,4,lower
+MAC1105,MAC1105-04,College Algebra,Homestead,Fri,F,08:00,09:30,Building 5-162,3,lower
+ENC1102,ENC1102-05,English Composition II,Wolfson,Fri,MWF,16:30,18:00,Building 7-382,3,lower
+COP3530,COP3530-04,Data Structures,Homestead,Mon,MW,17:30,18:30,Building 5-356,3,upper
+CAI1001C,CAI1001C-01,AI Thinking,Wolfson,Fri,MWF,12:30,13:30,Building 1-224,3,lower
+STA2023,STA2023-02,Statistical Methods,North,Wed,MW,14:00,15:15,Building 1-234,4,lower
+CAI3821C,CAI3821C-01,Computational Methods AI 1,Wolfson,Fri,F,12:30,13:30,Building 5-142,3,upper
+CAI3822C,CAI3822C-02,Computational Methods AI 2,Kendall,Tue,TR,08:30,09:15,Building 1-263,4,upper
+CAI3821C,CAI3821C-02,Computational Methods AI 1,West,Wed,MWF,09:00,10:30,Building 1-230,3,upper
+CAI3822C,CAI3822C-03,Computational Methods AI 2,North,Fri,MWF,14:30,15:30,Building 5-256,3,upper
+MAC1105,MAC1105-05,College Algebra,Wolfson,Fri,F,10:00,11:15,Building 2-283,3,lower
+STA2023,STA2023-03,Statistical Methods,West,Wed,MW,08:00,09:15,Building 5-102,4,lower
+ENC1102,ENC1102-06,English Composition II,Kendall,Fri,MWF,11:30,12:15,Building 6-333,3,lower
+COP3530,COP3530-05,Data Structures,North,Mon,MW,11:00,12:30,Building 7-349,4,upper
+COP1000,COP1000-03,Intro to Programming,Homestead,Sat,Sat,16:30,18:00,Building 7-368,3,lower
+COP1000,COP1000-04,Intro to Programming,Wolfson,Tue,TR,14:00,16:00,Building 2-270,4,lower
+MAC1105,MAC1105-06,College Algebra,Homestead,Fri,F,14:30,15:15,Building 7-184,3,lower
+CAI3821C,CAI3821C-03,Computational Methods AI 1,Kendall,Wed,MWF,17:00,18:30,Building 6-330,3,upper
+CAI2100C,CAI2100C-04,Machine Learning Foundations,Kendall,Mon,MW,10:00,11:15,Building 5-106,4,lower
+ENC1101,ENC1101-02,English Composition I,West,Fri,F,11:30,12:15,Building 2-213,3,lower
+CAI3822C,CAI3822C-04,Computational Methods AI 2,Homestead,Thu,TR,12:30,13:30,Building 7-383,4,upper
+COP2210,COP2210-05,Programming I (Java),Wolfson,Tue,TR,16:00,18:00,Building 3-292,3,lower
+COP1000,COP1000-05,Intro to Programming,Homestead,Thu,TR,17:00,18:30,Building 1-321,3,lower
+COP3530,COP3530-06,Data Structures,North,Wed,MWF,11:30,13:00,Building 1-153,3,upper
+CAI3822C,CAI3822C-05,Computational Methods AI 2,Kendall,Thu,TR,11:30,12:30,Building 4-300,3,upper
+COP1000,COP1000-06,Intro to Programming,West,Fri,F,17:00,18:30,Building 1-222,3,lower
+CAI2100C,CAI2100C-05,Machine Learning Foundations,Homestead,Fri,F,16:00,18:00,Building 2-343,4,lower
+CAI1001C,CAI1001C-02,AI Thinking,North,Wed,MW,16:00,17:15,Building 7-244,4,lower
+STA2023,STA2023-04,Statistical Methods,Kendall,Thu,TR,15:30,16:30,Building 4-369,3,lower
+CAI3821C,CAI3821C-04,Computational Methods AI 1,Kendall,Mon,MW,13:30,14:30,Building 7-246,3,upper
+MAC1105,MAC1105-07,College Algebra,Kendall,Sat,Sat,11:00,12:15,Building 5-319,3,lower
+ENC1102,ENC1102-07,English Composition II,Wolfson,Mon,MW,08:00,10:00,Building 5-369,3,lower
+CAI3822C,CAI3822C-06,Computational Methods AI 2,North,Fri,F,14:30,16:00,Building 3-204,3,upper
+STA2023,STA2023-05,Statistical Methods,Kendall,Mon,MWF,13:30,15:00,Building 7-294,3,lower
+ENC1101,ENC1101-03,English Composition I,Wolfson,Sat,Sat,16:30,18:00,Building 3-159,4,lower
+ENC1102,ENC1102-08,English Composition II,Kendall,Sat,Sat,09:00,10:30,Building 5-300,4,lower
+CAI2100C,CAI2100C-06,Machine Learning Foundations,Wolfson,Fri,MWF,15:30,16:15,Building 7-256,3,lower
+MAC1105,MAC1105-08,College Algebra,Wolfson,Fri,F,09:30,10:15,Building 1-175,3,lower
+STA2023,STA2023-06,Statistical Methods,Kendall,Mon,MWF,10:00,12:00,Building 4-159,3,lower
+CAI1001C,CAI1001C-03,AI Thinking,West,Sat,Sat,12:30,13:15,Building 5-103,3,lower
+ENC1102,ENC1102-09,English Composition II,West,Fri,MWF,10:30,11:15,Building 5-203,3,lower
+CAI3821C,CAI3821C-05,Computational Methods AI 1,Wolfson,Tue,TR,11:00,12:15,Building 4-154,3,upper
+ENC1101,ENC1101-04,English Composition I,West,Sat,Sat,17:00,18:15,Building 1-301,3,lower
+ENC1102,ENC1102-10,English Composition II,Homestead,Thu,TR,16:00,17:30,Building 6-189,4,lower
+CAI2100C,CAI2100C-07,Machine Learning Foundations,Wolfson,Fri,MWF,10:00,11:30,Building 4-327,3,lower
+ENC1101,ENC1101-05,English Composition I,Homestead,Tue,TR,14:30,15:15,Building 1-104,3,lower
+CAI1001C,CAI1001C-04,AI Thinking,North,Wed,MW,11:00,12:30,Building 6-381,3,lower
+MAC1105,MAC1105-09,College Algebra,Homestead,Wed,MW,13:30,15:00,Building 7-300,3,lower
+COP2210,COP2210-06,Programming I (Java),Wolfson,Sat,Sat,10:30,11:15,Building 2-144,3,lower
+ENC1101,ENC1101-06,English Composition I,Kendall,Thu,TR,09:00,10:15,Building 4-169,3,lower
+COP2210,COP2210-07,Programming I (Java),Kendall,Sat,Sat,15:30,17:00,Building 4-264,3,lower
+CAI1001C,CAI1001C-05,AI Thinking,Wolfson,Sat,Sat,15:00,16:15,Building 2-275,3,lower
+COP2210,COP2210-08,Programming I (Java),Homestead,Fri,F,13:00,15:00,Building 3-365,3,lower
+CAI1001C,CAI1001C-06,AI Thinking,Kendall,Tue,TR,11:30,13:00,Building 4-384,4,lower
+COP2210,COP2210-09,Programming I (Java),North,Wed,MWF,10:30,11:30,Building 2-182,3,lower
+ENC1101,ENC1101-07,English Composition I,West,Fri,F,10:00,12:00,Building 4-320,3,lower
+ENC1102,ENC1102-11,English Composition II,Kendall,Fri,F,09:30,11:00,Building 7-309,3,lower
+COP1000,COP1000-07,Intro to Programming,Wolfson,Fri,F,15:30,16:30,Building 4-232,3,lower
+COP1000,COP1000-08,Intro to Programming,Homestead,Thu,TR,12:00,13:30,Building 2-104,3,lower
+CAI2100C,CAI2100C-08,Machine Learning Foundations,Homestead,Fri,MWF,16:00,17:15,Building 7-357,4,lower
+CAI3822C,CAI3822C-07,Computational Methods AI 2,Wolfson,Wed,MW,11:30,13:00,Building 6-328,3,upper
+COP2210,COP2210-10,Programming I (Java),North,Fri,F,15:00,16:15,Building 7-258,4,lower
+COP1000,COP1000-09,Intro to Programming,Kendall,Fri,F,16:30,17:15,Building 1-223,3,lower
+COP1000,COP1000-10,Intro to Programming,West,Fri,F,09:00,11:00,Building 1-268,3,lower
+MAC1105,MAC1105-10,College Algebra,West,Sat,Sat,12:30,14:00,Building 6-167,3,lower
+COP2210,COP2210-11,Programming I (Java),Homestead,Sat,Sat,08:30,10:00,Building 5-282,3,lower
+CAI3821C,CAI3821C-06,Computational Methods AI 1,North,Sat,Sat,08:30,09:30,Building 5-385,4,upper
+COP3530,COP3530-07,Data Structures,Homestead,Mon,MW,14:30,15:15,Building 6-237,3,upper
+ENC1101,ENC1101-08,English Composition I,North,Sat,Sat,14:30,15:30,Building 3-118,3,lower
+STA2023,STA2023-07,Statistical Methods,Kendall,Fri,F,17:00,19:00,Building 5-112,3,lower
+MAC1105,MAC1105-11,College Algebra,Wolfson,Mon,MW,17:00,18:30,Building 4-398,3,lower
+CAI3821C,CAI3821C-07,Computational Methods AI 1,Kendall,Tue,TR,13:00,15:00,Building 1-230,3,upper
+COP1000,COP1000-11,Intro to Programming,Kendall,Fri,F,10:00,11:15,Building 2-136,4,lower
+CAI3821C,CAI3821C-08,Computational Methods AI 1,Kendall,Sat,Sat,13:30,15:00,Building 6-366,4,upper
+CAI1001C,CAI1001C-07,AI Thinking,Kendall,Tue,TR,14:30,15:15,Building 2-333,3,lower
+ENC1101,ENC1101-09,English Composition I,North,Sat,Sat,11:30,12:15,Building 1-348,4,lower
+COP1000,COP1000-12,Intro to Programming,West,Sat,Sat,15:30,16:30,Building 7-165,3,lower
+MAC1105,MAC1105-12,College Algebra,Kendall,Fri,MWF,09:00,11:00,Building 3-367,3,lower
+CAI3821C,CAI3821C-09,Computational Methods AI 1,West,Tue,TR,13:30,15:00,Building 5-312,3,upper
